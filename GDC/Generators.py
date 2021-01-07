@@ -9,10 +9,7 @@ def fib(limit):
         #return a, b
         a, b = b, a + b
 
-
-    # Create a generator object
-
-
+# Man skal instanisere en generator for at bruge den
 x = fib(10)
 
 # Iterating over the generator object using next

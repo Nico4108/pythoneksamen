@@ -5,7 +5,7 @@ with open('hello.txt', 'a') as f:
     f.write("Hello world my man123!\n")
 
 
-# hvad "with" indeholder
+# hvad "with" indeholder # SPØRG CLAUS D.11!!!!!!!!
 class ManagedFile:
     def __init__(self, name):
         self.name = name

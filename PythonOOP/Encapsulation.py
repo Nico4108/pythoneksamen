@@ -1,6 +1,5 @@
 import math
 
-
 class Triangle:
     def __init__(self):
         self.a = 30

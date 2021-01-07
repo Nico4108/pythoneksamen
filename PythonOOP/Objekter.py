@@ -15,7 +15,7 @@ class Costumer:
 
 
 b = Bank()
-c = Costumer('Claus')
+c = Costumer('Flemming')
 b.accounts.append(Account(1234, c))
 print(b.accounts[0])
 
